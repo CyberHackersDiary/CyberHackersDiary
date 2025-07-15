@@ -1,25 +1,28 @@
-🔐 The Cyber Hacker's Diary<br/> 
-Cybersecurity Analyst | Ethical Hacker | Content Creator<br/>
+🔐 The Cyber Hacker's Diary<br/>
+Cybersecurity Analyst | Ethical Hacker |<br/>
+________________________________________
 Welcome to my GitHub — a curated collection of over 70 hands-on cybersecurity projects covering real-world scenarios, from threat hunting to ethical hacking <br/>
 ________________________________________
-🧠 What You’ll Find Here<br/>
+🧠 What You’ll Find Here:<br/>
 
-🔍 Threat Hunting	SIEM: log analysis, Splunk, MITRE ATT&CK<br/>
-🛡️ SOC Analyst Simulations: Incident response, alert triage, escalation<br/>
-🧰 Penetration Testing:	Nmap, Metasploit, Burp Suite, OWASP Top 10<br/>
-🧪 Vulnerability Scanning: Nessus, Nikto, OpenVAS<br/>
-🌐 Web App Hacking:	PortSwigger, XSS, SQLi, CSRF<br/>
-🎓 CTF Walkthroughs: TryHackMe, HackTheBox, PicoCTF<br/>
-🔐 Secure Configuration: Firewall setup, hardening Linux/Windows<br/>
-🧾 Reporting:	Executive summaries, technical reports, and PDF<br/>
-
+• 🔍 Threat Hunting	SIEM: log analysis, Splunk, MITRE ATT&CK<br/>
+• 🛡️ SOC Analyst Simulations: Incident response, alert triage, escalation<br/>
+• 🧰 Penetration Testing:	Nmap, Metasploit, Burp Suite, OWASP Top 10<br/>
+• 🧪 Vulnerability Scanning: Nessus, Nikto, OpenVAS<br/>
+• 🌐 Web App Hacking:	PortSwigger, XSS, SQLi, CSRF<br/>
+• 🎓 CTF Walkthroughs: TryHackMe, HackTheBox, PicoCTF<br/>
+• 🔐 Secure Configuration: Firewall setup, hardening Linux/Windows<br/>
+• 🧾 Reporting:	Executive summaries, technical reports, and PDF<br/>
+________________________________________
 Each project links to:<br/>
+
 •	✅ A detailed walkthrough in the repo<br/>
 •	🎥 A video on my YouTube Channel: https://www.youtube.com/@CyberHackersDiary<br/>
 •	🎬 A TikTok summary on TikTok: https://www.tiktok.com/@cyberhackersdiary<br/>
 •  👔 A professional post or reflection on LinkedIn: https://www.linkedin.com/in/john-kimani-13831329b/<br/>
 ________________________________________
-🧰 Tech & Tools I Use<br/>
+🧰 Tech & Tools I Use:<br/>
+
 •	Kali Linux, Ubuntu, Windows Server<br/>
 •	Wireshark, Burp Suite, Nmap, Metasploit<br/>
 •	SIEM: Splunk, ELK Stack<br/>
@@ -27,7 +30,8 @@ ________________________________________
 •	Cloud Security: AWS Fundamentals<br/>
 •	Version Control: Git & GitHub<br/>
 ________________________________________
-📽️ Featured Projects
+📽️ Featured Projects: <br/>
+
 •	🔓 THM - Blue: Initial access and post-exploitation on Windows<br/>
 •	🛡️ SIEM Lab: Detect brute-force attacks with Splunk and Elastic<br/>
 •	🌐 OWASP Lab: Manual testing of OWASP Top 10 vulnerabilities<br/>
