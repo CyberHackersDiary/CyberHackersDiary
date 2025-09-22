@@ -1,5 +1,5 @@
 🔐 The Cyber Hacker's Diary<br/>
-Cybersecurity Analyst | SOC | Digital Forensic |<br/>
+Cybersecurity Analyst | SOC Operations | Digital Forensics |<br/>
 ________________________________________
 Welcome to my GitHub — a curated collection of over 70 hands-on cybersecurity projects covering real-world scenarios, from threat hunting to ethical hacking <br/>
 ________________________________________
