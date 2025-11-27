@@ -1,49 +1,50 @@
 🛡️ The DFIR & SOC Analyst’s Lab <br/>
+
 Digital Forensics | SOC Operations | Incident Responses |<br/>
 ________________________________________
-Welcome to my GitHub — a curated collection of over 70 hands-on cybersecurity projects covering real-world scenarios, from threat hunting to ethical hacking <br/>
+Welcome to my GitHub — a curated collection of real-world defensive cybersecurity projects completed across a structured 4-phase DFIR & SOC skill-building pathway.
+Every project simulates realistic enterprise scenarios involving log analysis, incident triage, threat hunting, malware analysis, and full forensics investigations. <br/>
 ________________________________________
 🧠 What You’ll Find Here:<br/>
 
-• 🔍 Threat Hunting	SIEM: log analysis, Splunk, MITRE ATT&CK<br/>
-• 🛡️ SOC Analyst Simulations: Incident response, alert triage, escalation<br/>
-• 🧰 Penetration Testing:	Nmap, Metasploit, Burp Suite, OWASP Top 10<br/>
-• 🧪 Vulnerability Scanning: Nessus, Nikto, OpenVAS<br/>
-• 🌐 Web App Hacking:	PortSwigger, XSS, SQLi, CSRF<br/>
-• 🎓 CTF Walkthroughs: TryHackMe, HackTheBox, PicoCTF<br/>
-• 🔐 Secure Configuration: Firewall setup, hardening Linux/Windows<br/>
+• 🔍 SOC Alert Triage using Splunk, ELK, Wazuh & Security OnionK<br/>
+• 🛡️ SIEM Log Correlation: Windows events, network logs, threat mapping<br/>
+• 🧰 Digital Forensics: Autopsy, Velociraptor, FTK Imager, memory forensics<br/>
+• 🧪 Malware Analysis: ANY.RUN, Hybrid Analysis, VirusTotal, MITRE mapping<br/>
+• 🌐 Network Forensics: PCAP analysis, Suricata, Zeek logs<br/>
+• 🎓 Incident Response Workflow following NIST/DFIR best practices<br/>
+• 🔐 Reporting: Executive summaries, incident timelines, IOC lists, PDF reports<br/>
 • 🧾 Reporting:	Executive summaries, technical reports, and PDF<br/>
 ________________________________________
-Each project links to:<br/>
+Projects:<br/>
 
 •	✅ A detailed walkthrough in the repo<br/>
-•	🎥 A video on my YouTube Channel: https://www.youtube.com/@CyberHackersDiary<br/>
-•	🎬 A TikTok summary on TikTok: https://www.tiktok.com/@cyberhackersdiary<br/>
-•  👔 A professional post or reflection on LinkedIn: https://www.linkedin.com/in/john-kimani-13831329b/<br/>
+•	🎬 A professional case report (PDF)<br/>
+• 👔 A LinkedIn write-up summary: https://www.linkedin.com/in/john-kimani-13831329b/<br/>
 ________________________________________
 🧰 Tech & Tools I Use:<br/>
 
-•	Kali Linux, Ubuntu, Windows Server<br/>
-•	Wireshark, Burp Suite, Nmap, Metasploit<br/>
-•	SIEM: Splunk, ELK Stack<br/>
-•	Programming: Python, Bash<br/>
-•	Cloud Security: AWS Fundamentals<br/>
-•	Version Control: Git & GitHub<br/>
+•	SIEM & SOC Tools: Splunk, ELK/Elastic, Wazuh, Chronicle, Security Onionr<br/>
+•	Forensics Tools: Autopsy, Velociraptor, FTK Imager, Axiom (Trial), EZ Tools<br/>
+•	Network Tools: Wireshark, Zeek, Suricata<br/>
+•	Malware Analysis: ANY.RUN, Hybrid Analysis, VirusTotal, MalwareBazaar<br/>
+•	Scripting: Python, PowerShell, Bash<br/>
+• Platforms: TryHackMe, Blue Team Labs, CyberDefenders, RangeForce<br/>
 ________________________________________
 📽️ Featured Projects: <br/>
 
-•	🔓 THM - Blue: Initial access and post-exploitation on Windows<br/>
-•	🛡️ SIEM Lab: Detect brute-force attacks with Splunk and Elastic<br/>
-•	🌐 OWASP Lab: Manual testing of OWASP Top 10 vulnerabilities<br/>
-•	🔍 Log Analysis: Investigating suspicious Linux login patterns<br/>
-•	🚨 Incident Response Drill: SOC analyst simulation walkthrough<br/>
+•	🔓 Basic Alert Triage & MITRE ATT&CK Mapping<br/>
+•	🛡️ Multi-log Correlation of Suspicious Activity<br/>
+•	🌐 Windows Host Forensics Examination<br/>
+•	🔍 End-to-End Incident Response Simulation<br/>
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/john-kimani-13831329b/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@cyberhackersdiary) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@CyberHackersDiary) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/john-kimani-13831329b/) 
+
 
 # 💻 Tech Stack:
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=CyberHackersDiary&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=CyberHackersDiary&theme=merko&hide_border=false)<br/>
