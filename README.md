@@ -1,4 +1,5 @@
-Junior SOC & DFIR Analyst | Security+ Certified | SIEM • Threat Hunting • Digital Forensics |<br/>
+🛡️ The DFIR & SOC Analyst’s Lab <br/>
+Digital Forensics | SOC Operations | Incident Responses |<br/>
 ________________________________________
 Welcome to my GitHub — a curated collection of over 70 hands-on cybersecurity projects covering real-world scenarios, from threat hunting to ethical hacking <br/>
 ________________________________________
